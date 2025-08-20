@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: CNN_Classifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/sayantapaul1999/CH24HM565_ML_OPS
+Author: sayantapaul1999
+Author-email: sp08.02.1999@gmail.com
+Project-URL: Bug Tracker, https://github.com/sayantapaul1999/CH24HM565_ML_OPS/issues
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
+
+# CH24HM565_ML_OPS
